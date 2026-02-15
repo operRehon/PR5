@@ -1,0 +1,15 @@
+/Users/johndoe/mdk0202/pr5/client/obj/Debug/net8.0/client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johndoe/mdk0202/pr5/client/obj/Debug/net8.0/client.AssemblyInfoInputs.cache
+/Users/johndoe/mdk0202/pr5/client/obj/Debug/net8.0/client.AssemblyInfo.cs
+/Users/johndoe/mdk0202/pr5/client/obj/Debug/net8.0/client.csproj.CoreCompileInputs.cache
+/Users/johndoe/mdk0202/pr5/client/obj/Debug/net8.0/client.sourcelink.json
+/Users/johndoe/mdk0202/pr5/client/bin/Debug/net8.0/client
+/Users/johndoe/mdk0202/pr5/client/bin/Debug/net8.0/client.deps.json
+/Users/johndoe/mdk0202/pr5/client/bin/Debug/net8.0/client.runtimeconfig.json
+/Users/johndoe/mdk0202/pr5/client/bin/Debug/net8.0/client.dll
+/Users/johndoe/mdk0202/pr5/client/bin/Debug/net8.0/client.pdb
+/Users/johndoe/mdk0202/pr5/client/obj/Debug/net8.0/client.dll
+/Users/johndoe/mdk0202/pr5/client/obj/Debug/net8.0/refint/client.dll
+/Users/johndoe/mdk0202/pr5/client/obj/Debug/net8.0/client.pdb
+/Users/johndoe/mdk0202/pr5/client/obj/Debug/net8.0/client.genruntimeconfig.cache
+/Users/johndoe/mdk0202/pr5/client/obj/Debug/net8.0/ref/client.dll
