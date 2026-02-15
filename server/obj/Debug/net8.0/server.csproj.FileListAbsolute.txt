@@ -1,0 +1,15 @@
+/Users/johndoe/mdk0202/pr5/server/bin/Debug/net8.0/server
+/Users/johndoe/mdk0202/pr5/server/bin/Debug/net8.0/server.deps.json
+/Users/johndoe/mdk0202/pr5/server/bin/Debug/net8.0/server.runtimeconfig.json
+/Users/johndoe/mdk0202/pr5/server/bin/Debug/net8.0/server.dll
+/Users/johndoe/mdk0202/pr5/server/bin/Debug/net8.0/server.pdb
+/Users/johndoe/mdk0202/pr5/server/obj/Debug/net8.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johndoe/mdk0202/pr5/server/obj/Debug/net8.0/server.AssemblyInfoInputs.cache
+/Users/johndoe/mdk0202/pr5/server/obj/Debug/net8.0/server.AssemblyInfo.cs
+/Users/johndoe/mdk0202/pr5/server/obj/Debug/net8.0/server.csproj.CoreCompileInputs.cache
+/Users/johndoe/mdk0202/pr5/server/obj/Debug/net8.0/server.sourcelink.json
+/Users/johndoe/mdk0202/pr5/server/obj/Debug/net8.0/server.dll
+/Users/johndoe/mdk0202/pr5/server/obj/Debug/net8.0/refint/server.dll
+/Users/johndoe/mdk0202/pr5/server/obj/Debug/net8.0/server.pdb
+/Users/johndoe/mdk0202/pr5/server/obj/Debug/net8.0/server.genruntimeconfig.cache
+/Users/johndoe/mdk0202/pr5/server/obj/Debug/net8.0/ref/server.dll
